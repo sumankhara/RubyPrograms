@@ -3,7 +3,7 @@
   <component name="ModuleRunConfigurationManager">
     <shared />
     <local>
-      <configuration default="false" name="protected_method" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <configuration default="false" name="arrays" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
         <module name="RubyPrograms" />
         <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
         <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals" />
@@ -18,11 +18,11 @@
             <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
           </COVERAGE_PATTERN>
         </EXTENSION>
-        <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals/protected_method.rb" />
+        <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals/arrays.rb" />
         <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
         <method />
       </configuration>
-      <configuration default="false" name="executable_class" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <configuration default="false" name="hashes" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
         <module name="RubyPrograms" />
         <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
         <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals" />
@@ -37,11 +37,11 @@
             <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
           </COVERAGE_PATTERN>
         </EXTENSION>
-        <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals/executable_class.rb" />
+        <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals/hashes.rb" />
         <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
         <method />
       </configuration>
-      <configuration default="false" name="open_classes" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <configuration default="false" name="ranges" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
         <module name="RubyPrograms" />
         <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
         <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals" />
@@ -56,11 +56,11 @@
             <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
           </COVERAGE_PATTERN>
         </EXTENSION>
-        <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals/open_classes.rb" />
+        <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals/ranges.rb" />
         <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
         <method />
       </configuration>
-      <configuration default="false" name="equality" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <configuration default="false" name="alias_method" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
         <module name="RubyPrograms" />
         <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
         <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals" />
@@ -75,11 +75,11 @@
             <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
           </COVERAGE_PATTERN>
         </EXTENSION>
-        <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals/equality.rb" />
+        <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals/alias_method.rb" />
         <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
         <method />
       </configuration>
-      <configuration default="false" name="looping" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <configuration default="false" name="operators" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
         <module name="RubyPrograms" />
         <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
         <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals" />
@@ -94,7 +94,7 @@
             <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
           </COVERAGE_PATTERN>
         </EXTENSION>
-        <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals/looping.rb" />
+        <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Pluralsight/RubyFundamentals/operators.rb" />
         <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
         <method />
       </configuration>
